@@ -1,0 +1,2 @@
+# haskellFromFirstPrinciples
+HFP examples/lessons
